@@ -1,0 +1,15 @@
+﻿<NintexWorkflowActivity>
+  <Name>Taxonomy Update</Name>
+  <Category>Custom Actions</Category>
+  <Description>Update Taxonomy field value</Description>
+  <ActivityType>Cassini.Workflows.TaxonomyUpdateActivity</ActivityType>
+  <ActivityAssembly>Cassini.Workflows, Version=1.0.0.0, Culture=neutral, PublicKeyToken=79e8a3b5a648200b</ActivityAssembly>
+  <AdapterType>Cassini.Workflows.TaxonomyUpdateAdapter</AdapterType>
+  <AdapterAssembly>Cassini.Workflows, Version=1.0.0.0, Culture=neutral, PublicKeyToken=79e8a3b5a648200b</AdapterAssembly>
+  <HandlerUrl>ActivityServer.ashx</HandlerUrl>
+  <Icon>/_layouts/15/NintexWorkflow/Cassini.CustomActions/Images/STPB.PNG</Icon>
+  <ToolboxIcon>/_layouts/15/NintexWorkflow/Cassini.CustomActions/Images/EMMDoubleTag.png</ToolboxIcon>
+  <ConfigurationDialogUrl>Cassini.CustomActions/TaxonomyUpdateDialog.aspx</ConfigurationDialogUrl>
+  <ShowInCommonActions>yes</ShowInCommonActions>
+  <DocumentLibrariesOnly>no</DocumentLibrariesOnly>
+</NintexWorkflowActivity>

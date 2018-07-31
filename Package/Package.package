@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c7fe9df2-cf02-4e10-8ff1-0dc1e5fb8a91" solutionId="c7fe9df2-cf02-4e10-8ff1-0dc1e5fb8a91" resetWebServer="false" sharePointProductVersion="15.0" name="Cassini.Workflows" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="77253750-45f7-4ff4-9431-3448c7001d53" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="d40e8a55-7f0e-4ebd-980d-309494f00110" />
+  </projectItems>
+</package>
